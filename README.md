@@ -21,7 +21,7 @@
     </nav>
     <section id="about">
         <h2>About Us</h2>
-        <p>Welcome to Clothing Brand - your go-to source for the latest fashion trends. Our YouTube channel is dedicated to showcasing the best in clothing and style.</p>
+        <p>Welcome to Azure Fabrics! - your go-to source for the latest fashion trends. Our YouTube channel is dedicated to showcasing the best in clothing and style.</p>
     </section>
     <section id="videos">
         <h2>Latest Videos</h2>
