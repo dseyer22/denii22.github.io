@@ -1,10 +1,9 @@
 body {
-    background-image: url('https://images.app.goo.gl/chW4jiKB7EAG5rCUA'); /* Replace with the actual path to your background image */
-    background-size: cover; /* This property ensures that the background image covers the entire body */
-    background-position: center; /* This property centers the background image */
-    background-repeat: no-repeat; /* This property ensures that the background image is not repeated */
-    color: #333; /* Set the text color for better readability on the background */
-    font-family: 'Arial', sans-serif; /* Set the font family for the text */
+    background-image: url('https://images.app.goo.gl/chW4jiKB7EAG5rCUA'); 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #333; 
+    font-family: 'Arial', sans-serif; 
 }
 
 header {
