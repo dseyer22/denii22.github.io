@@ -1,27 +1,23 @@
-<!DOCTYPE html>
-<html> 
 <head> 
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Azure Fabrics</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 
-
 <body>
-    
     <header>
         <h1>Azure Fabrics</h1>
         <p>Effortless Style, Endless Versatility</p>
     </header>
+    
     <nav>
-        
         <ul>
             <li><a href="#about">About Us</a></li>
             <li><a href="#videos">Videos</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
+        
     </nav>
     
     <section id="about">
