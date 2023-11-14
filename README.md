@@ -1,15 +1,14 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clothing Brand YouTube Channel</title>
+    <title>Azure Fabrics</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Clothing Brand</h1>
-        <p>Explore the Latest Fashion Trends</p>
+        <h1>Azure Fabrics</h1>
+        <p>Effortless Style, Endless Versatility</p>
     </header>
 
     <nav>
